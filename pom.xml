@@ -9,10 +9,9 @@
         <relativePath/>
     </parent>
     <groupId>com.acunmedyafsbrfs13.pair</groupId>
-    <artifactId>NisanHafta2</artifactId>
+    <artifactId>productmanagementsystem</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Nisan2.hafta</name>
-    <description>Nisan2.hafta</description>
+    <name>productmanagementsystem</name>
     <url/>
     <licenses>
         <license/>

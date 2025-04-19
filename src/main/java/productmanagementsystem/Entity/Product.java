@@ -1,15 +1,15 @@
-package librarymanagementsystem1.Entity;
+package productmanagementsystem.Entity;
 
 import jakarta.persistence.*;
 
 @Entity
-@Table(name="books")
+@Table(name="products")
 public class Product {
    @Id
    @GeneratedValue(strategy = GenerationType.IDENTITY)
    @Column(name="id")
     private int id;
-   @Column(name="bookname")
+   @Column(name="name")
     private String name;
    @Column(name="price")
     private double price;
